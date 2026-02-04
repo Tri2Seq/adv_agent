@@ -1,0 +1,27 @@
+# 忽略所有图片格式（主流格式全覆盖）
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+*.svg
+*.ico
+*.psd  
+*.ai   
+*.eps  
+*.mp4
+*.avi
+*.mov
+*.flv
+*.wmv
+*.mkv
+*.webm
+*.mpeg
+*.mpg
+*.3gp
+*.rmvb
+*.ts
+*.m4v
