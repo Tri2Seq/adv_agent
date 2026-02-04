@@ -1,0 +1,92 @@
+{
+  "task_id": "96a77879",
+  "task_status": "processing",
+  "current_step": "story_builder",
+  "progress": 28.57,
+  "create_time": "2026-02-04 11:14:34",
+  "update_time": "2026-02-04 11:15:24",
+  "initial_input": {
+    "product_image": "微信图片_20260129160151_1059_127.jpg",
+    "character_setting": "微信图片_20260129145108_1058_127.jpg"
+  },
+  "demand_info": {},
+  "story_info": {},
+  "scene_info": {},
+  "storyboard_info": {},
+  "grid_image_info": {},
+  "hd_image_info": {},
+  "video_info": {},
+  "module_status": {
+    "demand_interact": "success",
+    "story_builder": "busy",
+    "scene_designer": "idle",
+    "storyboard_designer": "idle",
+    "grid_image_generator": "idle",
+    "image_optimizer": "idle",
+    "video_generator": "idle"
+  },
+  "error_log": [],
+  "demand_interact_info": {
+    "product_image": "微信图片_20260129160151_1059_127.jpg",
+    "character_setting": [
+      {
+        "name": "赤枫",
+        "gender": "男",
+        "age": "20岁左右"
+      }
+    ],
+    "product_category": "NFC复合果汁",
+    "core_selling_points": [
+      "含NFC非浓缩还原汁，口感新鲜",
+      "简单配方，自然健康",
+      "芭乐青提独特风味，清爽别致"
+    ],
+    "target_audience": "追求健康生活、喜爱国潮与二次元文化、乐于尝试新潮风味的年轻消费者（Z世代）",
+    "ad_core_demand": "在享受清新独特风味的同时，获得情感与审美的双重满足感。",
+    "style_preference": "新中式国潮插画风格，画面唯美飘逸，将产品元素与古典意象（如红枫、绸带、古风人物）巧妙融合。",
+    "advertising_slogan": "一口芭乐清提，邂逅东方奇遇。"
+  },
+  "story_builder_info": {
+    "final_style": "custom",
+    "style_detail": {
+      "name": "新中式国潮插画风格",
+      "core_ele": "产品元素, 古典意象, 红枫, 绸带, 古风人物",
+      "color": "以温暖的红色、金色为主，搭配柔和的米色和淡雅的青色，营造出古典与现代交融的视觉效果。",
+      "lighting": "柔和自然光，低对比度，强调画面的细腻与层次感。",
+      "atmosphere": "唯美, 典雅, 轻盈",
+      "props": "红枫叶, 绸带, 古风扇",
+      "tone": "优雅古典",
+      "expression": "眼神温柔，嘴角微微上扬"
+    },
+    "emotional_tone": "优雅古典",
+    "story_line": [
+      {
+        "duration": 10,
+        "content": "画面开场，赤枫站在繁华的城市街头，手中拿着一瓶NFC复合果汁，阳光透过树叶洒在他的脸上，镜头特写瓶身，上面描绘着生动的芭乐和青提。背景音乐轻快，呈现出年轻活力的氛围。",
+        "core_point": "快速抓住观众的注意力，展示产品的外观和新鲜感。"
+      },
+      {
+        "duration": 25,
+        "content": "赤枫走进一家时尚的国潮咖啡馆，四周环境充满了新中式插画风格的装饰。他向店员点了一杯NFC复合果汁，特写镜头展示果汁被倒入玻璃杯中的清澈流动。赤枫轻轻摇晃杯子，果汁中漂浮着的芭乐和青提片增添了色彩。赤枫抿了一口，脸上露出惊喜的表情，周围的朋友们也纷纷赞叹。",
+        "core_point": "场景化展示产品核心卖点，体现新鲜口感与自然健康的饮品特性。"
+      },
+      {
+        "duration": 20,
+        "content": "赤枫和朋友们在阳光下享受美好的时光，手中的果汁成为他们欢笑的中心。镜头闪回到赤枫的脸上，嘴角上扬，眼神中透露出满足与惊艳。画面中出现一系列快节奏的插画，表现出芭乐和青提的独特风味，以及它们带来的清新感。最后，赤枫举起果汁，笑着说出广告语：“一口芭乐清提，邂逅东方奇遇”。",
+        "core_point": "情绪升华，通过社交互动和惊艳效果，强化产品的独特风味和带来的快乐体验。"
+      },
+      {
+        "duration": 5,
+        "content": "画面定格在赤枫手中的果汁上，背景渐渐变暗，品牌LOGO显现。旁白响起，清晰有力地宣读Slogan：“一口芭乐清提，邂逅东方奇遇。”，鼓励观众立即尝试这个新潮饮品。",
+        "core_point": "品牌露出与Slogan的结合，强力行动号召，推动消费者尝试产品。"
+      }
+    ],
+    "total_duration": 60,
+    "selling_point_placement": {
+      "part1": "快速抓住观众的注意力，展示产品的外观和新鲜感。",
+      "part2": "场景化展示产品核心卖点，体现新鲜口感与自然健康的饮品特性。",
+      "part3": "情绪升华，通过社交互动和惊艳效果，强化产品的独特风味和带来的快乐体验。",
+      "part4": "品牌露出与Slogan的结合，强力行动号召，推动消费者尝试产品。"
+    }
+  }
+}

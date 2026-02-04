@@ -1,0 +1,132 @@
+{
+  "task_id": "5a81fc48",
+  "task_status": "processing",
+  "current_step": "storyboard_designer",
+  "progress": 57.14,
+  "create_time": "2026-02-04 14:54:26",
+  "update_time": "2026-02-04 14:59:53",
+  "initial_input": {
+    "product_image": "ad_input/product.jpg",
+    "character_setting": "ad_input/character1.jpg"
+  },
+  "demand_info": {},
+  "story_info": {},
+  "scene_info": {},
+  "storyboard_info": {},
+  "grid_image_info": {},
+  "hd_image_info": {},
+  "video_info": {},
+  "module_status": {
+    "demand_interact": "success",
+    "story_builder": "success",
+    "scene_designer": "success",
+    "storyboard_designer": "busy",
+    "grid_image_generator": "idle",
+    "image_optimizer": "idle",
+    "video_generator": "idle"
+  },
+  "error_log": [],
+  "demand_interact_info": {
+    "product_image": "ad_input/product.jpg",
+    "character_setting": [
+      {
+        "name": "清然",
+        "gender": "男性",
+        "age": "25岁"
+      }
+    ],
+    "product_category": "果蔬饮料",
+    "core_selling_points": [
+      "NFC技术，保留果蔬原汁鲜纯",
+      "简单配方，健康无添加",
+      "芭乐青提复合口味，清新独特"
+    ],
+    "target_audience": "追求健康生活方式的年轻人，以及关注饮食品质和新鲜感的消费者",
+    "ad_core_demand": "通过国风元素传递产品的自然纯粹感，与同时代消费者的文化情感产生共鸣，突出饮品的高端健康特质。",
+    "style_preference": "以中国传统文化为灵感，采用水墨风格的表现形式，融合山水、果实元素以及国风人物虚拟形象，展现自然和谐之美。",
+    "advertising_slogan": "品味芭乐青提之鲜，感受自然国风之韵！"
+  },
+  "story_builder_info": {
+    "final_style": "custom",
+    "style_detail": {
+      "name": "以中国传统文化为灵感，采用水墨风格的表现形式，融合山水、果实元素以及国风人物虚拟形象，展现自然和谐之美。",
+      "core_ele": "山水，果实，国风人物，水墨效果，和谐美",
+      "color": "以墨黑、淡灰为主色调，辅以清新亮丽的绿色和温暖的土黄色，营造出自然清新的氛围。",
+      "lighting": "柔和自然光，低对比度，突显水墨画的层次感与细腻之美。",
+      "atmosphere": "宁静，和谐，典雅",
+      "props": "传统文房四宝，山水画卷，果实装饰",
+      "tone": "文化韵味，温暖亲切",
+      "expression": "眼神温柔，微笑自然"
+    },
+    "emotional_tone": "文化韵味，温暖亲切",
+    "story_line": [
+      {
+        "duration": 10,
+        "content": "画面呈现出青山绿水的水墨山水画，清然穿着简约的国风服饰，手持一瓶果蔬饮料，微笑着面对镜头。周围的自然景色显得宁静而优雅，远处的果树摇曳，似乎在邀请大家一同品味大自然的馈赠。",
+        "core_point": "迅速引起观众的注意，传递健康和自然的主题。"
+      },
+      {
+        "duration": 25,
+        "content": "镜头切换至清然在果园中，轻轻摘下新鲜的芭乐和青提，手指轻触果实，水滴顺着果皮滑落，展现新鲜感。随后，他将果实放入果汁机，开始制作饮品，NFC技术的标识在屏幕上闪烁，强调无添加的简单配方。最后，镜头聚焦于倒入玻璃杯中，琼浆玉液的清澈光泽令人垂涎。",
+        "core_point": "通过场景化展示，体现产品的新鲜和健康特点，突出NFC技术的优势。"
+      },
+      {
+        "duration": 20,
+        "content": "清然举起饮料，轻轻品尝，瞬间他的脸上绽放出惊喜的笑容。周围的景色开始变得更加生动，水墨画中的山水似乎跳跃起来，五彩斑斓的果实在他周围飞舞。清然放下杯子，闭上眼睛，享受这份独特的清新与自然的韵味，背景音乐悠扬动听，激发观众的情感共鸣。",
+        "core_point": "情绪升华，突出产品给用户带来的愉悦体验和自然的感受，同时强化品牌与国风文化的联系。"
+      },
+      {
+        "duration": 5,
+        "content": "最后镜头定格在饮料瓶上，品牌标志清晰可见。清然微笑着说出广告语：“品味芭乐青提之鲜，感受自然国风之韵！”屏幕下方出现购买链接或二维码，鼓励观众立即行动。",
+        "core_point": "品牌露出及slogan口播，激发观众的购买欲望，形成强有力的行动号召。"
+      }
+    ],
+    "total_duration": 60,
+    "selling_point_placement": {
+      "part1": "迅速引起观众的注意，传递健康和自然的主题。",
+      "part2": "通过场景化展示，体现产品的新鲜和健康特点，突出NFC技术的优势。",
+      "part3": "情绪升华，突出产品给用户带来的愉悦体验和自然的感受，同时强化品牌与国风文化的联系。",
+      "part4": "品牌露出及slogan口播，激发观众的购买欲望，形成强有力的行动号召。"
+    }
+  },
+  "scene_designer_info": {
+    "scene_num": 3,
+    "total_duration": 55,
+    "scenes": [
+      {
+        "scene_id": "scene_1",
+        "scene_title": "青山绿水的邀请",
+        "duration": 10,
+        "character": "清然微笑面对镜头，展现自然的和谐美。",
+        "core_selling_point": "迅速引起观众的注意，传递健康和自然的主题。",
+        "scene_description": "画面呈现出一幅水墨山水画，青翠的山峦与碧绿的水流相互交融，清然身穿简约的国风服饰，手持一瓶果蔬饮料，面带微笑，仿佛在邀请观众一同分享大自然的馈赠。远处的果树轻轻摇曳，枝头挂满了丰盈的果实，画面带有淡淡的墨迹，营造出宁静优雅的氛围。",
+        "atmosphere": "宁静、和谐、典雅",
+        "props": "果蔬饮料瓶、国风服饰、果树",
+        "scene_image_path": "./ad_output/5a81fc48/scene_images/scene_1_concept.png"
+      },
+      {
+        "scene_id": "scene_2",
+        "scene_title": "新鲜果实的魔力",
+        "duration": 25,
+        "character": "清然轻轻摘下果实，展现对自然的亲近。",
+        "core_selling_point": "体现产品的新鲜和健康特点，突出NFC技术的优势。",
+        "scene_description": "镜头切换至清然在果园，四周是郁郁葱葱的果树，水墨画的背景中，太阳的柔和光线透过树叶洒落在果实上，清然轻柔地摘下新鲜的芭乐和青提，水滴在果皮上滑落，显得格外清新。随后，他将果实放入一台古风果汁机，NFC技术的标识如山水之间的溪流般灵动闪烁，强调无添加的简单配方。最后，镜头聚焦于清澈饮品倒入玻璃杯中，流光溢彩，令人垂涎。",
+        "atmosphere": "生机勃勃、清新、和谐",
+        "props": "芭乐、青提、古风果汁机、玻璃杯",
+        "scene_image_path": "./ad_output/5a81fc48/scene_images/scene_2_concept.png"
+      },
+      {
+        "scene_id": "scene_3",
+        "scene_title": "自然的愉悦体验",
+        "duration": 20,
+        "character": "清然闭眼享受，脸上洋溢着惊喜的笑容。",
+        "core_selling_point": "突出产品给用户带来的愉悦体验和自然的感受。",
+        "scene_description": "清然轻轻品尝饮料，瞬间笑容绽放，周围的水墨山水似乎随之变得生动起来，五彩缤纷的果实如流云般在他周围飞舞，形成一幅动态的水墨画。清然闭上眼睛，享受这份独特的清新与自然韵味，悠扬的背景音乐和谐流淌，激发观众的情感共鸣。",
+        "atmosphere": "愉悦、生动、梦幻",
+        "props": "饮料瓶、飘浮的果实、背景音乐",
+        "scene_image_path": "./ad_output/5a81fc48/scene_images/scene_3_concept.png"
+      }
+    ],
+    "style_consistency": "以中国传统文化为灵感，采用水墨风格的表现形式，融合山水、果实元素以及国风人物虚拟形象，展现自然和谐之美。"
+  }
+}

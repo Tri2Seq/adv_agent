@@ -1,0 +1,50 @@
+{
+  "task_id": "68e9bef4",
+  "task_status": "failed",
+  "current_step": "demand_interact",
+  "progress": 14.29,
+  "create_time": "2026-02-04 10:54:47",
+  "update_time": "2026-02-04 10:54:47",
+  "initial_input": {
+    "product_image": "微信图片_20260129160151_1059_127.jpg",
+    "character_setting": [
+      {
+        "name": "小雅",
+        "gender": "女",
+        "age": "22-28岁",
+        "appearance": "身高165cm，鹅蛋脸，黑长直，五官精致",
+        "dress_style": "现代简约风，浅色连衣裙",
+        "personality": "温柔、亲和、阳光",
+        "signature_action": "微笑手持产品，轻抬展示"
+      }
+    ]
+  },
+  "demand_info": {},
+  "story_info": {},
+  "scene_info": {},
+  "storyboard_info": {},
+  "grid_image_info": {},
+  "hd_image_info": {},
+  "video_info": {},
+  "module_status": {
+    "demand_interact": "failed",
+    "story_builder": "idle",
+    "scene_designer": "idle",
+    "storyboard_designer": "idle",
+    "grid_image_generator": "idle",
+    "image_optimizer": "idle",
+    "video_generator": "idle"
+  },
+  "error_log": [
+    {
+      "step": "demand_interact",
+      "error": "需求采集失败：'list' object has no attribute 'strip'",
+      "time": "2026-02-04 10:54:47"
+    },
+    {
+      "step": "demand_interact",
+      "error": "需求采集失败：'list' object has no attribute 'strip'",
+      "time": "2026-02-04 10:54:47"
+    }
+  ]
+}

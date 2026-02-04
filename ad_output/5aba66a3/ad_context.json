@@ -1,0 +1,60 @@
+{
+  "task_id": "5aba66a3",
+  "task_status": "failed",
+  "current_step": "story_builder",
+  "progress": 28.57,
+  "create_time": "2026-02-04 11:02:38",
+  "update_time": "2026-02-04 11:03:05",
+  "initial_input": {
+    "product_image": "微信图片_20260129160151_1059_127.jpg",
+    "character_setting": "微信图片_20260129145108_1058_127.jpg"
+  },
+  "demand_info": {},
+  "story_info": {},
+  "scene_info": {},
+  "storyboard_info": {},
+  "grid_image_info": {},
+  "hd_image_info": {},
+  "video_info": {},
+  "module_status": {
+    "demand_interact": "success",
+    "story_builder": "failed",
+    "scene_designer": "idle",
+    "storyboard_designer": "idle",
+    "grid_image_generator": "idle",
+    "image_optimizer": "idle",
+    "video_generator": "idle"
+  },
+  "error_log": [
+    {
+      "step": "story_builder",
+      "error": "故事构建失败：'style_preference'",
+      "time": "2026-02-04 11:03:05"
+    },
+    {
+      "step": "story_builder",
+      "error": "故事构建失败：'style_preference'",
+      "time": "2026-02-04 11:03:05"
+    }
+  ],
+  "demand_interact_info": {
+    "product_image": "微信图片_20260129160151_1059_127.jpg",
+    "character_setting": [
+      {
+        "name": "枫染",
+        "gender": "男性",
+        "age": "20岁左右"
+      }
+    ],
+    "product_category": "复合果蔬汁饮料",
+    "core_selling_points": [
+      "含NFC原榨果汁，口感纯粹鲜活",
+      "芭乐青提独特风味，清爽香甜",
+      "简单配方，无多余添加，回归自然"
+    ],
+    "target_audience": "喜爱国风、二次元文化的Z世代年轻人群，特别是年轻女性。她们注重颜值与生活品质，追求新潮独特的消费体验，是社交媒体的活跃用户。",
+    "ad_core_demand": "通过国风美学建立情感链接，满足目标用户对高颜值、新奇口味以及文化认同感的复合型消费需求。",
+    "style_preference": "唯美浪漫的国风插画风格，色彩清丽雅致，融合传统元素与现代审美，营造出令人心动的诗意氛围。",
+    "advertising_slogan": "邂逅芭乐清甜，倾心一抹嫣红。"
+  }
+}

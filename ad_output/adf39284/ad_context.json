@@ -1,0 +1,45 @@
+{
+  "task_id": "adf39284",
+  "task_status": "processing",
+  "current_step": "story_builder",
+  "progress": 28.57,
+  "create_time": "2026-02-04 14:41:43",
+  "update_time": "2026-02-04 14:46:56",
+  "initial_input": {
+    "product_image": "微信图片_20260129160151_1059_127.jpg",
+    "character_setting": "微信图片_20260129145108_1058_127.jpg"
+  },
+  "demand_info": {},
+  "story_info": {},
+  "scene_info": {},
+  "storyboard_info": {},
+  "grid_image_info": {},
+  "hd_image_info": {},
+  "video_info": {},
+  "module_status": {
+    "demand_interact": "success",
+    "story_builder": "busy",
+    "scene_designer": "idle",
+    "storyboard_designer": "idle",
+    "grid_image_generator": "idle",
+    "image_optimizer": "idle",
+    "video_generator": "idle"
+  },
+  "error_log": [],
+  "demand_interact_info": {
+    "product_image": "微信图片_20260129160151_1059_127.jpg",
+    "character_setting": [
+      {
+        "name": "Unknown",
+        "gender": "Unknown",
+        "age": "Unknown"
+      }
+    ],
+    "product_category": "解析失败",
+    "core_selling_points": [],
+    "target_audience": "未知",
+    "ad_core_demand": "品牌推广",
+    "style_preference": "默认",
+    "advertising_slogan": ""
+  }
+}

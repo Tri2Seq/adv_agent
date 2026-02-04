@@ -1,0 +1,59 @@
+{
+  "task_id": "155f1f05",
+  "task_status": "failed",
+  "current_step": "story_builder",
+  "progress": 28.57,
+  "create_time": "2026-02-04 11:01:45",
+  "update_time": "2026-02-04 11:01:45",
+  "initial_input": {
+    "product_image": "微信图片_20260129160151_1059_127.jpg",
+    "character_setting": "persona.jpg"
+  },
+  "demand_info": {},
+  "story_info": {},
+  "scene_info": {},
+  "storyboard_info": {},
+  "grid_image_info": {},
+  "hd_image_info": {},
+  "video_info": {},
+  "module_status": {
+    "demand_interact": "success",
+    "story_builder": "failed",
+    "scene_designer": "idle",
+    "storyboard_designer": "idle",
+    "grid_image_generator": "idle",
+    "image_optimizer": "idle",
+    "video_generator": "idle"
+  },
+  "error_log": [
+    {
+      "step": "story_builder",
+      "error": "故事构建失败：'style_preference'",
+      "time": "2026-02-04 11:01:45"
+    },
+    {
+      "step": "story_builder",
+      "error": "故事构建失败：'style_preference'",
+      "time": "2026-02-04 11:01:45"
+    }
+  ],
+  "demand_interact_info": {
+    "product_image": "微信图片_20260129160151_1059_127.jpg",
+    "character_setting": [
+      {
+        "name": "MockUser",
+        "gender": "女",
+        "age": "24"
+      }
+    ],
+    "product_category": "模拟产品",
+    "core_selling_points": [
+      "模拟特性1",
+      "模拟特性2"
+    ],
+    "target_audience": "模拟人群",
+    "ad_core_demand": "模拟发布",
+    "style_preference": "赛博朋克",
+    "advertising_slogan": "模拟Slogan"
+  }
+}

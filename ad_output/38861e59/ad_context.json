@@ -1,0 +1,29 @@
+{
+  "task_id": "38861e59",
+  "task_status": "processing",
+  "current_step": "demand_interact",
+  "progress": 14.29,
+  "create_time": "2026-02-04 11:37:57",
+  "update_time": "2026-02-04 11:37:57",
+  "initial_input": {
+    "product_image": "微信图片_20260129160151_1059_127.jpg",
+    "character_setting": "微信图片_20260129145108_1058_127.jpg"
+  },
+  "demand_info": {},
+  "story_info": {},
+  "scene_info": {},
+  "storyboard_info": {},
+  "grid_image_info": {},
+  "hd_image_info": {},
+  "video_info": {},
+  "module_status": {
+    "demand_interact": "busy",
+    "story_builder": "idle",
+    "scene_designer": "idle",
+    "storyboard_designer": "idle",
+    "grid_image_generator": "idle",
+    "image_optimizer": "idle",
+    "video_generator": "idle"
+  },
+  "error_log": []
+}
